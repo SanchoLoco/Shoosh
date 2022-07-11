@@ -1,0 +1,2 @@
+# Shoosh
+Visual Authenticating Dapp
