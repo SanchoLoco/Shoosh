@@ -1,0 +1,3 @@
+User interface to create and manage Shoosh
+Smart contracts who allow communication to the blockchain
+IPFS or filcoin ecosystem
